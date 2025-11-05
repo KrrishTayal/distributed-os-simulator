@@ -10,7 +10,7 @@ A **Cloud-based Operating System Simulator** that demonstrates **CPU Scheduling 
 ✅ Each worker acts as a cloud server with limited memory (100 MB)  
 ✅ **Dynamic memory allocation** — tasks request and release memory  
 ✅ Real-time **visual dashboard** for tasks, workers, and memory usage  
-✅ Built using **Streamlit** and **Python**  
+✅ Built using **Streamlit** and **Python**
 
 ---
 
@@ -30,9 +30,9 @@ A **Cloud-based Operating System Simulator** that demonstrates **CPU Scheduling 
 
 ---
 
-## 📸 Preview
+## 📸 Live Preview
 
-https://distributed-os-simulator-4kq9ue9w2f3zk4tiwbziqz.streamlit.app/
+🔗 **[Run the App on Streamlit Cloud](https://distributed-os-simulator-4kq9ue9w2f3zk4tiwbziqz.streamlit.app/)**
 
 ---
 
@@ -42,18 +42,20 @@ https://distributed-os-simulator-4kq9ue9w2f3zk4tiwbziqz.streamlit.app/
 ```bash
 git clone https://github.com/YOUR_USERNAME/cloud-os-simulator.git
 cd cloud-os-simulator
+```
 
-**🧩 Requirements
-
-Install the requirements**
+2️⃣ Install the requirements
 
 streamlit
+
 pandas
-time
+
 numpy
+
 matplotlib
 
+time
 
-**3️⃣ Run the app**
+3️⃣ Run the app
+```bash
 streamlit run app.py
-
