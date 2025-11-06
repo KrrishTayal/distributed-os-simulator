@@ -40,7 +40,7 @@ A **Cloud-based Operating System Simulator** that demonstrates **CPU Scheduling 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/cloud-os-simulator.git
+git clone https://github.com/krrishtayal/cloud-os-simulator.git
 cd cloud-os-simulator
 ```
 
